@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/himanackerman/Image/main/1767877061742-623.jpeg" width="280" />
+</p>
 
-<!--
-**himanackerman/himanackerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Hilman
 
-Here are some ideas to get you started:
+Seseorang yang suka eksplorasi hal baru, ngoprek project, dan belajar dari pengalaman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ About Me
+- 🌱 Suka belajar dan coba hal baru  
+- 🧩 Senang eksperimen dan utak-atik  
+- 🚀 Tertarik dengan dunia open-source  
+
+---
+
+### ⚡ Fun Fact
+Kalau lagi fokus, bisa lupa waktu 😄
