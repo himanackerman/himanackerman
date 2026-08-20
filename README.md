@@ -43,11 +43,6 @@ A curious mind who loves exploring new things, tinkering with ideas, and learnin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=himanackerman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanackerman&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanackerman&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
